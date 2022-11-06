@@ -1,6 +1,6 @@
 {
-  "name": "robofriends",
-  "homepage": "https://cjhaspenfalls.github.io/robofriends",
+  "name": "robofriendssite",
+  "homepage": "https://robofriendssite.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
